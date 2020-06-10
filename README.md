@@ -6,8 +6,8 @@ The contents of the following folders are a series of programs that I wrote for 
 ## Software
 * Ubuntu 14.04.5 LTS (trust)
 * Vagrant 2.0.1 (Virtualbox)
-* GCC 5.4.1 20160904
+* GCC 4.8.4
 * C
 
 ## Repositories
-0. **[0x00-hello_world](https://github.com/dkwok94/holbertonschool-low_level_programming/tree/master/0x00-hello_world)**
+0. **[0x00-hello_world](https://github.com/Juaco121/holbertonschool-low_level_programming/tree/master/0x00-hello_world)**
