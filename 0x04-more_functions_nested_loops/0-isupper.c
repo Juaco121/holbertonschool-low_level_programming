@@ -1,17 +1,15 @@
 #include "holberton.h"
 /**
- * main - check the code for Holberton School students.
- * with number Hexadecimals
- * Return: Always 0.
+ *_isupper - Checks for uppercase
+ *@c: arbitrary character entered by user
+ *
+ *Description: This program will determine if a character is uppercase
+ *Return: 1 if uppercase, 0 otherwise
  */
 int _isupper(int c)
 {
-  if (c >= 0x41 && c <= 0x5A)
-  {
-    return (1);
-  }
-  else 
-  {
-    return (0);
-  }
+	if ((c >= 'A') && (c <= 'Z'))
+		return (1);
+	else
+		return (0);
 }
