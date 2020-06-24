@@ -27,7 +27,7 @@ if (*s == ';')
 {
 break;
 }
-s++
+s++;
 }
 return (num * sign);
 }
