@@ -14,15 +14,20 @@ unsigned int num = 0;
 while (*s != '\0')
 {
 if (*s == '-')
+{
 sign = sign * -1;
+}
 
 if (*s >= '0' && *s <= '9')
+{
 num = (num * 10) + (*s - '0');
+}
 
 if (*s == ';')
-
-*s++
-
-return (num * aux);
+{
+break;
 }
+s++
+}
+return (num * sign);
 }
