@@ -1,4 +1,4 @@
-# 0x0A. C - malloc, free
+# 0x0B. C - malloc, free
 
 ## Overview
 The goal of this project was to understand the difference between automatic and dynamic memory allocation as well as how to use the commands `malloc` and `free`. `valgrind` is also used to check for memory leaks.
