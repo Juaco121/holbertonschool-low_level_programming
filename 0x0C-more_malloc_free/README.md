@@ -78,4 +78,4 @@ $ ./e
 0x62 0x62 0x62 0x62 0x62 0x62 0x62 0x62
 ```
 
-2020 - All programs written by Derek Kwok ([@juangraram](https://twitter.com/JuanGraRam)) at [Holberton School](https://www.holbertonschool.com/)
+2020 - All programs written by Juan Granada ([@juangraram](https://twitter.com/JuanGraRam)) at [Holberton School](https://www.holbertonschool.com/)
