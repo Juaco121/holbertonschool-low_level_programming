@@ -6,10 +6,12 @@
  * @array: given array.
  * @size: size of the array.
  * @action: pointer to the function needed.
+ *
+ * Return: nothing
  */
 void array_iterator(int *array, size_t size, void (*action)(int))
 {
-	if (array != NULL && action != NULL)
+	if (array != NULL && action != NULL && size != 0)
 	{
 		size_t i;
 
