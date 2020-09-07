@@ -31,7 +31,7 @@ The goal of this project was to learn about dynamic libraries, how they work, ho
 **[holberton.h](holberton.h)** - Create a dynamic library `libholberton.so` containing all the functions listed below
 ```
 $ ls -la lib*
--rwxrwxr-x 1 julien julien 13632 Jan  7 06:25 libdhk.so
+-rwxrwxr-x 1 julien julien 13632 Jan  7 06:25 libholberton.so
 $ nm -D libdhk.so 
 0000000000000a90 T _abs
 0000000000000aa9 T _atoi
