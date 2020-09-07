@@ -216,4 +216,4 @@ $ ./k
 
 
 
-2020 - All programs written by Juan Granada ([@juangraram](https://twitter.com/JuanGraRam)) at [DHK School](https://www.holbertonschool.com/)
+2020 - All programs written by Juan Granada ([@juangraram](https://twitter.com/JuanGraRam)) at [Holberton School](https://www.holbertonschool.com/)
